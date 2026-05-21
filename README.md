@@ -9,10 +9,10 @@
 > [!TIP]
 > The file to edit is `~/.config/fastfetch/config.jsonc` and the key to edit is `source`
 
-## Use This:
+## Use This Gallery To Find The Name Of The Logo,:
 ![screenshot](assets/Page_Screenshot.png)
 
-## To Change This (Tux):
+## To Change This (Tux),:
 ![screenshot](assets/Terminal_Screenshot_Tux.png)
 
 ## To This (Rpi):

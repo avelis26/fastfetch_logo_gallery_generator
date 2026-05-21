@@ -36,8 +36,9 @@ avelis@emby-vault >
 
 ```shell
 fastfetch_logo_gallery_generator/
-├── main.py                             # Entry point
+├── main.py                             # Main Script \ Entry point
 ├── assets/
+│   ├── logo.png                        # App Logo
 │   ├── Page_Screenshot.png             # Gallery Example
 │   └── Terminal_Screenshot_Rpi.png     # Result Example 1
 │   └── Terminal_Screenshot_Tux.png     # Result Example 2

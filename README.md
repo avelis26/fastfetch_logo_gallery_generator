@@ -6,9 +6,6 @@
 > generate an HTML gallery to quickly and easily browse the logo options and select the name of the
 > one you want.
 
-> [!TIP]
-> The file to edit is `~/.config/fastfetch/config.jsonc` and the key to edit is `source`
-
 ## Use This Gallery To Find The Name Of The Logo:
 ![screenshot](assets/Page_Screenshot.png)
 
@@ -19,6 +16,9 @@
 ![screenshot](assets/Terminal_Screenshot_Rpi.png)
 
 ---
+
+> [!TIP]
+> The file to edit is `~/.config/fastfetch/config.jsonc` and the key to edit is `source`
 
 ```shell
 avelis@emby-vault > pwd

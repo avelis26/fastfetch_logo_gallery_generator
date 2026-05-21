@@ -9,10 +9,10 @@
 > [!TIP]
 > The file to edit is `~/.config/fastfetch/config.jsonc` and the key to edit is `source`
 
-## Change This:
+## Change This (Tux):
 ![screenshot](assets/Terminal_Screenshot_Tux.png)
 
-## To This:
+## To This (Rpi):
 ![screenshot](assets/Terminal_Screenshot_Rpi.png)
 
 ## Using This:

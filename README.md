@@ -1,5 +1,5 @@
+![screenshot](assets/logo.png)
 
-# fastfetch_logo_gallery_generator
 > A python script to fetch the fastfetch logo options and generate an HTML gallery for easy browsing.
 > fastfetch is the tool that creates that fancy color ascii art termincal greeting and there are MANY
 > options for switching the art logo to something else. So I decided to make a python tool so you can

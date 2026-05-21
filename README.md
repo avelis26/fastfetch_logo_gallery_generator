@@ -31,13 +31,8 @@ avelis@emby-vault > cat config.jsonc | head -n 5
   },
 avelis@emby-vault >
 ```
-## 0. Dev Set Up
 
-```shell
-# paste commands here
-```
-
-## 2. Project Structure
+## Project Structure
 
 ```shell
 fastfetch_logo_gallery_generator/
